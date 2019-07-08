@@ -96,7 +96,7 @@ a:hover{
 }
 .section-title p{
 	font-size:15px;
-	color:#888;
+	color:#151515;
 }
 
 .img {
@@ -187,7 +187,7 @@ a:hover{
 }
 
 /* Preloader Animaion */
-.color-plate {
+/* .color-plate {
 	position: fixed;
 	width: 200px;
 	background: #fff;
@@ -201,7 +201,7 @@ a:hover{
 	transition: all 0.4s ease;
 	padding: 20px;
 }
-
+ */
 
 
 .color-plate.active{
